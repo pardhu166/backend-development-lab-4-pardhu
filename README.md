@@ -1,6 +1,6 @@
 # Lab 4: Registration, Login and JWT
 
-**Live link:** https://backend-development-lab-4-pardhu.vercel.app
+**Live link:** https://lab-04-ruddy.vercel.app
 
 ---
 
