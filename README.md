@@ -4,9 +4,9 @@
 
 ---
 
-**Name:** Pardhu Ganesh
-**Registration Number:** _(your registration number)_
-**Section:** Aurora – Year II Term II
+**Name:** GUNDA PARDHIV GANESH CHANDRA
+**Registration Number:** 252U1R6089
+**Section:** AIML - 2B (207)
 
 ---
 
